@@ -42,19 +42,6 @@ function Casa() {
               <i className="fas fa-external-link-alt"></i>
             </span>
           </a>
-          {/* <a
-            href="https://github.com/kahikatea-2023/todo-full-stack/tree/rocio"
-            rel="noopener noreferrer"
-            target="_blank"
-            className="project-link hover:fadedPurple mr-5 mt-5 inline-block rounded-md  px-4 py-0.5 text-lg font-semibold leading-[40px] text-purple shadow-md hover:translate-y-[-1px] hover:bg-slate-200 hover:text-white"
-          >
-            {' '}
-            View Source
-            <span>
-              {' '}
-              <i className="fa-brands fa-github"></i>
-            </span>
-          </a> */}
         </div>
       </div>
     </div>

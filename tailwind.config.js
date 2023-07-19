@@ -21,10 +21,6 @@ export default {
         greenborder: '#2dbb41',
       },
       fontFamily: {
-        Cambay: "'Cambay', 'sans-serif'",
-        CambayBoldItalic: 'CambayBoldItalic',
-        CambayItalic: 'CambayItalic',
-        CambayRegular: 'CambayRegular',
         OpenSans: 'OpenSans-VariableFont',
       },
       keyframes: {
