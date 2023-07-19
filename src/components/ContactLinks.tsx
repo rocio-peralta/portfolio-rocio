@@ -11,8 +11,7 @@ function ContactLinks() {
             href="mailto:1rocioperalta@gmail.com"
             className="relative text-grey hover:text-blue-500"
           >
-            1rocioperalta@gmail.com
-            {'   ||'}
+            Gmail
           </a>
         </span>
         <span className="mr-10">
@@ -20,9 +19,9 @@ function ContactLinks() {
             rel="noopener noreferrer"
             target="_blank"
             href="https://www.linkedin.com/in/rocio-peralta-4396333a/"
-            className="relative text-indigo-600 hover:text-blue-500"
+            className="relative text-grey hover:text-blue-500"
           >
-            LinkedIn {'||'}
+            LinkedIn
           </a>
         </span>
         <span>
@@ -30,7 +29,7 @@ function ContactLinks() {
             rel="noopener noreferrer"
             target="_blank"
             href="https://github.com/rocio-peralta"
-            className="relative text-indigo-600 hover:text-blue-500"
+            className="relative text-grey hover:text-blue-500"
           >
             Github
           </a>

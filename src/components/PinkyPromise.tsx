@@ -22,38 +22,28 @@ function PinkyPromise() {
         </p>
         <div className="SKILLS flex flex-wrap">
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
-            HTML
+            TYPESCRIPT
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
-            HTML
+            REACT
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
-            HTML
+            TAILWIND CSS
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
-            HTML
+            SQLITE3
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
-            HTML
+            KNEX
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
-            HTML
+            EXPRESS
+          </span>
+          <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
+            VITE
           </span>
         </div>
         <div className="LINKS container flex flex-wrap items-center justify-start">
-          {/* <a
-            href="http://rocio-todo-full-stack.devacademy.nz/"
-            rel="noopener noreferrer"
-            target="_blank"
-            className="hover:fadedPurple mr-5 mt-5 inline-block rounded-md bg-purple px-4 py-0.5 text-lg font-semibold leading-[40px] text-white shadow-lg hover:bg-fadedBlue hover:shadow-md"
-          >
-            {' '}
-            Live Demo
-            <span>
-              {' '}
-              <i className="fas fa-external-link-alt"></i>
-            </span>
-          </a> */}
           <a
             href="https://github.com/kahikatea-2023/pinky-promise"
             rel="noopener noreferrer"
