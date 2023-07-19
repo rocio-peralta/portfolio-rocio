@@ -16,9 +16,9 @@ function Todo() {
           TODO
         </h3>
         <p className="project description pb-10 font-sans text-2xl  font-light text-grey">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda quas fugit
-          soluta autem deserunt doloremque quidem nostrum quisquam vero eum, consequatur
-          et in ut. Illum sint at molestiae cumque quaerat!
+          The Todo app is a full-stack project, allowing me to apply everything I had
+          learned during the bootcamp. It involved implementing CRUD operations, managing
+          state effectively, working with React hooks, and utilizing local storage.
         </p>
         <div className="SKILLS flex flex-wrap">
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">

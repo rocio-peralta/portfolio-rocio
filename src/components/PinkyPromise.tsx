@@ -16,9 +16,10 @@ function PinkyPromise() {
           PINKY PROMISE
         </h3>
         <p className="project description pb-10 font-sans text-2xl  font-light text-grey">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda quas fugit
-          soluta autem deserunt doloremque quidem nostrum quisquam vero eum, consequatur
-          et in ut. Illum sint at molestiae cumque quaerat!
+          Pinky Promise was my final project at the bootcamp, along with four other
+          students. The app enables users to register, add friends, and create promises
+          with their friends. The front-end was built using React (styled with Tailwind),
+          and the backend utilizes SQLite
         </p>
         <div className="SKILLS flex flex-wrap">
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">

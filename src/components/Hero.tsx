@@ -10,7 +10,7 @@ function Hero() {
           </div>
         </div>
         <div className="pb-24 pt-24 font-sans text-2xl font-light  text-grey">
-          I{"'"}m a full-stack Software Developer based in New Zealand.
+          Full-stack Software Developer based in New Zealand.
         </div>
       </div>
     </>

@@ -16,9 +16,12 @@ function Casa() {
           CASA
         </h3>
         <p className="project description pb-10 font-sans text-2xl  font-light text-grey">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda quas fugit
-          soluta autem deserunt doloremque quidem nostrum quisquam vero eum, consequatur
-          et in ut. Illum sint at molestiae cumque quaerat!
+          During the bootcamp, I was inspired to collaborate with my partner on a project
+          aimed at providing people with quick plans for tiny houses. We envisioned
+          creating a browser extension that could potentially benefit many individuals.
+          Currently, the project is in its early planning stages. We believe that this
+          idea has the potential to contribute towards addressing the housing crisis.
+          Please take a moment to have a look at my presentation.
         </p>
         <div className="SKILLS flex flex-wrap">
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
