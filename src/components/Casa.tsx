@@ -4,11 +4,11 @@ function Casa() {
       <img
         className="project-image absolute -left-10 top-0 w-4/6"
         alt=""
-        src="./image/casa.png"
+        src="./public/image/casa.png"
       />
       <div
         className="project-background absolute right-[-1px] top-[-1px] h-[110%] w-[83%] bg-cover"
-        style={{ backgroundImage: "url('./image/project-background-white.svg')" }}
+        style={{ backgroundImage: "url('./public/image/project-background-white.svg')" }}
       ></div>
 
       <div className="project-content z-10 w-1/2 p-16">
