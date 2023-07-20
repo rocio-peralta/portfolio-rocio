@@ -44,7 +44,7 @@ function About() {
             <div className="font-mono text-lg text-slate-50">{'>'} Rocio.resume</div>
             <p className="pb-6 pl-5 font-mono text-lg font-thin text-amber-200">
               <a
-                href="https://drive.google.com/file/d/1b67VUIOowfd6ekdEAhE97RAd3Z5bd_zY/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1dQc9jNIg-iBrnv1vMkeaGMIpDPzahdGW/view?usp=drive_link"
                 className="hover:text-cyan-400"
               >
                 &quot;rocioperalta.pdf&quot;
