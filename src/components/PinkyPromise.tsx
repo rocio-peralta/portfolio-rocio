@@ -4,11 +4,11 @@ function PinkyPromise() {
       <img
         className="project-image absolute -bottom-24 left-0  w-96"
         alt=""
-        src="./public/image/Pinkypromise.png"
+        src="./image/Pinkypromise.png"
       />
       <div
         className="project-background absolute right-[-1px] top-[-1px] h-[110%] w-[83%] bg-cover"
-        style={{ backgroundImage: "url('./public/image/project-background-white.svg')" }}
+        style={{ backgroundImage: "url('./image/project-background-white.svg')" }}
       ></div>
 
       <div className="project-content z-10 w-1/2 p-16">
