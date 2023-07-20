@@ -4,7 +4,7 @@ function PinkyPromise() {
       <img
         className="project-image absolute -bottom-24 left-0  w-96"
         alt=""
-        src="./image/Pinkypromise.png"
+        src="public/image/Pinkypromise.png"
       />
       <div
         className="project-background absolute right-[-1px] top-[-1px] h-[110%] w-[83%] bg-cover"
