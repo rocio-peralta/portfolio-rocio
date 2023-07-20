@@ -4,11 +4,11 @@ function Todo() {
       <img
         className="project-image absolute -left-14 top-16 w-1/2"
         alt=""
-        src="./public/image/TODO.png"
+        src="./image/TODO.png"
       />
       <div
         className="project-background absolute right-[-1px] top-[-1px] h-[110%] w-[83%] bg-cover"
-        style={{ backgroundImage: "url('./public/image/project-background-white.svg')" }}
+        style={{ backgroundImage: "url('./image/project-background-white.svg')" }}
       ></div>
 
       <div className="project-content z-10 w-1/2 p-16">
