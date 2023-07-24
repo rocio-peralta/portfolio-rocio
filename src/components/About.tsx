@@ -1,3 +1,5 @@
+import { ReactNode } from "react";
+
 function About() {
   return (
     <div className="about-container mx-auto">
@@ -67,7 +69,7 @@ function About() {
   );
 }
 
-function TerminalLine({ text, value }) {
+function TerminalLine({ text, value }: { text: string; value: ReactNode }) {
   return (
     <>
       <div className="font-mono text-lg text-slate-50">
