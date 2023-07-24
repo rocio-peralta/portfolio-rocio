@@ -7,7 +7,7 @@ import Projects from './components/Projects';
 export default function App() {
   return (
     <>
-      <div className="ml-52 mr-52 mt-20">
+      <div className="ml-3 mr-3 mt-6 md:ml-52 md:mr-52 md:mt-20">
         <Navbar />
         <Hero />
         <About />

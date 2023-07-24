@@ -2,14 +2,14 @@ function Hero() {
   return (
     <>
       <div className="">
-        <div className="mt-24 flex h-5/6 items-center justify-start">
+        <div className="mt-6  flex h-5/6  items-center justify-start md:mt-28">
           <div className="w-max">
-            <h1 className="animate-typing overflow-hidden whitespace-nowrap border-r-4 border-r-purple pr-5 font-mono text-8xl  text-purple">
+            <h1 className="animate-typing overflow-hidden whitespace-nowrap border-r-4 border-r-purple pr-5 font-mono text-4xl text-purple  md:text-8xl">
               {'>'} Rocio Peralta
             </h1>
           </div>
         </div>
-        <div className="pb-24 pt-24 font-sans text-2xl font-light  text-grey">
+        <div className="flex-col pb-24 pt-10 font-sans text-lg font-light text-grey  md:flex-row md:pt-24 md:text-2xl">
           Full-stack Software Developer based in New Zealand.
         </div>
       </div>
