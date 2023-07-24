@@ -1,4 +1,4 @@
-import { ReactNode } from "react";
+import { ReactNode } from 'react';
 
 function About() {
   return (
@@ -58,7 +58,7 @@ function About() {
             value='"hiking", "yoga", "animals", "watercolours"'
           />
 
-          <div className="w-max pb-10">
+          <div className="w-max md:pb-10">
             <h1 className="font-mon animate-typing overflow-hidden whitespace-nowrap border-r-4 border-r-slate-50 pr-5 text-slate-50">
               {'>'}
             </h1>
@@ -72,10 +72,12 @@ function About() {
 function TerminalLine({ text, value }: { text: string; value: ReactNode }) {
   return (
     <>
-      <div className="font-mono text-lg text-slate-50">
+      <div className="font-mono text-sm text-slate-50 md:text-lg">
         {'>'} {text}
       </div>
-      <p className="pb-6 pl-5 font-mono text-lg font-thin text-amber-200">{value}</p>
+      <p className="pb-6 pl-5 font-mono text-sm font-thin text-amber-200 md:text-lg">
+        {value}
+      </p>
     </>
   );
 }

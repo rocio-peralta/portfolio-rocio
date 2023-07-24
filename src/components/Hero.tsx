@@ -9,7 +9,7 @@ function Hero() {
             </h1>
           </div>
         </div>
-        <div className="flex-col pb-24 pt-10 font-sans text-lg font-light text-grey  md:flex-row md:pt-24 md:text-2xl">
+        <div className="flex-col pb-10 pt-10 font-sans text-lg font-light text-grey md:flex-row  md:pb-24 md:pt-24 md:text-2xl">
           Full-stack Software Developer based in New Zealand.
         </div>
       </div>
