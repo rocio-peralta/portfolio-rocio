@@ -14,7 +14,7 @@ export default function App() {
         <div className="projects">
           <h2
             id="projects"
-            className="section-title font-camphor font-open-sans font-segoe-ui mt-10 pt-10 text-center font-sans text-3xl font-medium text-grey"
+            className="section-title font-camphor font-open-sans font-segoe-ui mt-5 pt-10  text-center font-sans text-2xl font-medium text-grey md:mt-10 md:text-3xl"
           >
             Projects
           </h2>
@@ -25,7 +25,7 @@ export default function App() {
         <div className="contact">
           <h2
             id="contact"
-            className="section-title font-camphor font-open-sans mt-10 pt-10 text-center font-sans text-3xl font-medium text-grey"
+            className="section-title font-camphor font-open-sans font-segoe-ui mt-0 pt-0  text-center font-sans text-2xl font-medium text-grey md:mt-10 md:text-3xl"
           >
             Contact me!
           </h2>

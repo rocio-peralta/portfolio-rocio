@@ -3,8 +3,8 @@ import React from 'react';
 function ContactLinks() {
   return (
     <>
-      <div className=" mt-24 flex flex-wrap justify-center pb-32 text-center text-2xl">
-        <span className="mr-10">
+      <div className=" mt-10 flex flex-wrap justify-center pb-10 text-center text-xl md:mt-24 md:pb-32 md:text-2xl">
+        <span className="mr-5 md:mr-10">
           <a
             rel="noopener noreferrer"
             target="_blank"
@@ -14,7 +14,7 @@ function ContactLinks() {
             Gmail
           </a>
         </span>
-        <span className="mr-10">
+        <span className="mr-5 md:mr-10">
           <a
             rel="noopener noreferrer"
             target="_blank"
