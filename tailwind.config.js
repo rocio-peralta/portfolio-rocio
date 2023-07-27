@@ -21,9 +21,7 @@ export default {
         green: '#33c948',
         greenborder: '#2dbb41',
       },
-      fontFamily: {
-        OpenSans: 'OpenSans-VariableFont',
-      },
+
       keyframes: {
         typing: {
           '0%': {

@@ -17,7 +17,11 @@ function Navbar() {
           <a href="#contact">Contact</a>
         </div>
         <div className="p-5 md:hidden">
-          <button onClick={handleMobileMenuToggle}>
+          <button
+            onClick={handleMobileMenuToggle}
+            type="button"
+            aria-label="Toggle Mobile Menu"
+          >
             <i className=" fa-solid fa-bars text-2xl text-purple"></i>
           </button>
         </div>
