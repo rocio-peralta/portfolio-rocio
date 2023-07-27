@@ -4,7 +4,7 @@ function Casa() {
       <img
         className="project-image absolute -left-10 top-0 hidden w-4/6 md:block"
         alt=""
-        src="./image/casa.png"
+        src="./image/casa.webp"
       />
       <div
         className="project-background absolute right-[-1px] top-[-1px] hidden h-[110%] w-[83%] bg-cover md:block"

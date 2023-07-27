@@ -4,7 +4,7 @@ function PinkyPromise() {
       <img
         className="project-image absolute -bottom-24 left-0 hidden w-96  md:block"
         alt=""
-        src="./image/Pinkypromise.png"
+        src="./image/Pinkypromise.webp"
       />
       <div
         className="project-background absolute right-[-1px] top-[-1px] hidden h-[110%] w-[83%] bg-cover md:block"

@@ -4,7 +4,7 @@ function Todo() {
       <img
         className="project-image absolute -left-14 top-16 hidden w-1/2 md:block"
         alt=""
-        src="./image/TODO.png"
+        src="./image/TODO.webp"
       />
       <div
         className="project-background absolute right-[-1px] top-[-1px] hidden h-[110%] w-[83%] bg-cover md:block"
