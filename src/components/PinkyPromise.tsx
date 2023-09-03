@@ -46,6 +46,19 @@ function PinkyPromise() {
         </div>
         <div className="LINKS container flex flex-wrap items-center justify-start">
           <a
+            href="https://pinky-promise.onrender.com/"
+            rel="noopener noreferrer"
+            target="_blank"
+            className="hover:fadedPurple mr-5 mt-5 inline-block rounded-md bg-purple px-4 py-0.5 text-sm font-semibold leading-[40px] text-white shadow-lg hover:bg-fadedBlue hover:shadow-md md:text-lg"
+          >
+            {' '}
+            Live Demo
+            <span>
+              {' '}
+              <i className="fas fa-external-link-alt"></i>
+            </span>
+          </a>
+          <a
             href="https://github.com/kahikatea-2023/pinky-promise"
             rel="noopener noreferrer"
             target="_blank"
