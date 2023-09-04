@@ -50,7 +50,7 @@ function Todo() {
           </span>
         </div>
         <div className="LINKS container flex flex-wrap items-center justify-start">
-          <a
+          {/* <a
             href="http://rocio-todo-full-stack.devacademy.nz/"
             rel="noopener noreferrer"
             target="_blank"
@@ -62,7 +62,7 @@ function Todo() {
               {' '}
               <i className="fas fa-external-link-alt"></i>
             </span>
-          </a>
+          </a> */}
           <a
             href="https://github.com/kahikatea-2023/todo-full-stack/tree/rocio"
             rel="noopener noreferrer"
