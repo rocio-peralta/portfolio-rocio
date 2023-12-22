@@ -25,7 +25,7 @@ function Todo() {
             REACT
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
-          TYPESCRIPT
+            TYPESCRIPT
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
             APIS
