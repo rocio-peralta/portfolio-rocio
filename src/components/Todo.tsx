@@ -4,7 +4,7 @@ function Todo() {
       <img
         className="project-image absolute -left-14 top-16 hidden w-1/2 md:block"
         alt=""
-        src="./image/TODO.webp"
+        src="./image/TODO.png"
       />
       <div
         className="project-background absolute right-[-1px] top-[-1px] hidden h-[110%] w-[83%] bg-cover md:block"
@@ -22,10 +22,10 @@ function Todo() {
         </p>
         <div className="SKILLS flex flex-wrap">
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
-            TYPESCRIPT
+            REACT
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
-            REACT
+          TYPESCRIPT
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
             APIS
@@ -34,7 +34,7 @@ function Todo() {
             REDUX
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
-            BULMA
+            TAILWIND CSS
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
             SQLITE3
