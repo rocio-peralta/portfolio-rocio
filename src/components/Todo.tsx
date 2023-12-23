@@ -48,6 +48,9 @@ function Todo() {
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
             KNEX
           </span>
+           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
+            ZOD
+          </span>
         </div>
         <div className="LINKS container flex flex-wrap items-center justify-start">
           <a
