@@ -18,7 +18,8 @@ function Todo() {
         <p className="project description pb-10 font-sans text-sm font-light  text-grey md:text-2xl">
           The Todo app is a full-stack project, allowing me to apply everything I had
           learned during the bootcamp. It involved implementing CRUD operations, managing
-          state effectively, working with React hooks, and utilizing local storage.
+          state effectively, working with React hooks, and utilizing local storage.Testing
+          with Vitest and saftely validaiting data with Zod.
         </p>
         <div className="SKILLS flex flex-wrap">
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
@@ -37,18 +38,21 @@ function Todo() {
             TAILWIND CSS
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
+            VITE
+          </span>
+          <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
+            VITEST
+          </span>
+          <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
             SQLITE3
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
             EXPRESS
           </span>
           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
-            VITE
-          </span>
-          <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
             KNEX
           </span>
-           <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
+          <span className="skill font-camphor font-open-sans font-segoe-ui mb-4 mr-4 rounded-md border-2 border-highlighterGreen p-2 font-sans text-xs text-gray-500">
             ZOD
           </span>
         </div>
